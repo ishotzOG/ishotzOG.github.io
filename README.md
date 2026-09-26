@@ -73,7 +73,7 @@
     <h1>Admin Vault</h1>
     <p>Secure Personal Document Portal</p>
 
-    <!-- Replace the '#' with your actual Google Drive folder links -->
+    <!-- Replace the 'https://drive.google.com/file/d/1Vm7Z58_8EDALPJKcEgPl7iAgcK6AyRve/view?usp=drive_link' with your actual Google Drive folder links -->
     <a href="https://drive.google.com/file/d/1Vm7Z58_8EDALPJKcEgPl7iAgcK6AyRve/view?usp=drive_link" class="secure-btn" target="_blank">Access Tax & ID Documents</a>
     <a href="https://drive.google.com/file/d/1Vm7Z58_8EDALPJKcEgPl7iAgcK6AyRve/view?usp=drive_link" class="secure-btn" target="_blank">Access College Records</a>
     
